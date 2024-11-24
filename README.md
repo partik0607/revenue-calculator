@@ -1,22 +1,28 @@
+# Revenue Calculator
 
-## Available Scripts
+This project is a Revenue Calculator web application built with React. It helps users calculate projected revenue over a specified number of years based on an initial revenue and a growth rate.
 
-In the project directory, you can run:
+## Features
 
-### `npm start`
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Calculate projected revenue based on initial revenue and growth rate.
+- Display results in a bar chart.
+- Responsive design.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Installation
 
-### `npm run build`
+1. Clone the repository:
+   ```sh git clone https://github.com/partik0607/revenue-calculator.git ```
 
+2. Navigate to the project directory:
+    ```cd revenue-calculator ```
+3. Install the dependencies:
+   ``` npm install```
 
-### Deployment
-
-
-### `npm run build` fails to minify
+## Usage
+1. Start the development server:
+   ``` npm start ```
+2. Open http://localhost:3000 to view it in your browser.
+3. Enter your initial revenue, growth rate, and the number of years to see the projected revenue.
 
 <img width="1728" alt="image" src="https://github.com/user-attachments/assets/d5bea2e7-109a-4cb2-9b94-87113c026917">
 
