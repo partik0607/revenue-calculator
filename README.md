@@ -31,4 +31,5 @@ This project is a Revenue Calculator web application built with React. It helps 
 <img width="368" alt="image" src="https://github.com/user-attachments/assets/09004ed3-fd4f-4d8d-bb5c-447b3de18b74">
 
 
+## For any query please contact: partiksehrawat06@gmail.com
 
